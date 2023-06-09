@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pasienRumahSakit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="KTP">No KTP</string>
+    <string name="Nama">Nama</string>
+    <string name="Alamat">Alamat</string>
+    <string name="No_Telp">No Telp</string>
+</resources>
